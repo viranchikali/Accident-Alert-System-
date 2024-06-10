@@ -1,0 +1,14 @@
+pandas
+protobuf
+scikit_learn
+google-generativeai
+google-cloud-aiplatform
+requests
+joblib
+streamlit
+opencv-python
+numpy
+twilio
+notificationapi
+keras
+tensorflow
