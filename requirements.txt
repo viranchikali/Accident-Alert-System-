@@ -4,6 +4,5 @@ numpy
 tensorflow
 streamlit
 notifications-python-client
-opencv-python
-opencv-contrib-python-headless
+opencv-python-headless
 python-resize-image
