@@ -3,6 +3,6 @@ keras
 numpy
 tensorflow
 streamlit
-notifications-python-client
+notificationapi_python_server_sdk
 opencv-python-headless
 python-resize-image
