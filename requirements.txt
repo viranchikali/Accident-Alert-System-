@@ -4,7 +4,7 @@ numpy
 tensorflow
 streamlit
 opencv-python-headless
-notificationapi
+notifications-python-client
 opencv-python
 opencv-contrib-python-headless
 tensorflow-cpu==1.15
