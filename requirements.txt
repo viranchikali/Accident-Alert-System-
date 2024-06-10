@@ -3,7 +3,6 @@ keras
 numpy
 tensorflow
 streamlit
-opencv-python-headless
 notifications-python-client
 opencv-python
 opencv-contrib-python-headless
